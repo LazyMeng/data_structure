@@ -1,0 +1,5 @@
+git的学习
+1:git commit
+2:git checkout newImage;git commit
+3:git branch bugFix
+4:
